@@ -1,0 +1,16 @@
+C:\Users\37255\source\repos\UserData\Driving\bin\Debug\net5.0\Driving.exe
+C:\Users\37255\source\repos\UserData\Driving\bin\Debug\net5.0\Driving.deps.json
+C:\Users\37255\source\repos\UserData\Driving\bin\Debug\net5.0\Driving.runtimeconfig.json
+C:\Users\37255\source\repos\UserData\Driving\bin\Debug\net5.0\Driving.runtimeconfig.dev.json
+C:\Users\37255\source\repos\UserData\Driving\bin\Debug\net5.0\Driving.dll
+C:\Users\37255\source\repos\UserData\Driving\bin\Debug\net5.0\ref\Driving.dll
+C:\Users\37255\source\repos\UserData\Driving\bin\Debug\net5.0\Driving.pdb
+C:\Users\37255\source\repos\UserData\Driving\obj\Debug\net5.0\Driving.csproj.AssemblyReference.cache
+C:\Users\37255\source\repos\UserData\Driving\obj\Debug\net5.0\Driving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37255\source\repos\UserData\Driving\obj\Debug\net5.0\Driving.AssemblyInfoInputs.cache
+C:\Users\37255\source\repos\UserData\Driving\obj\Debug\net5.0\Driving.AssemblyInfo.cs
+C:\Users\37255\source\repos\UserData\Driving\obj\Debug\net5.0\Driving.csproj.CoreCompileInputs.cache
+C:\Users\37255\source\repos\UserData\Driving\obj\Debug\net5.0\Driving.dll
+C:\Users\37255\source\repos\UserData\Driving\obj\Debug\net5.0\ref\Driving.dll
+C:\Users\37255\source\repos\UserData\Driving\obj\Debug\net5.0\Driving.pdb
+C:\Users\37255\source\repos\UserData\Driving\obj\Debug\net5.0\Driving.genruntimeconfig.cache
